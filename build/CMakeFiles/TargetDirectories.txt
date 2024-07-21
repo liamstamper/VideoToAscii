@@ -1,0 +1,3 @@
+/Users/liamstamper/desktop/git/VideoToAscii/build/CMakeFiles/VideoToAscii.dir
+/Users/liamstamper/desktop/git/VideoToAscii/build/CMakeFiles/edit_cache.dir
+/Users/liamstamper/desktop/git/VideoToAscii/build/CMakeFiles/rebuild_cache.dir
