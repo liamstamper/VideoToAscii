@@ -89,8 +89,7 @@ Make sure your webcam is connected and accessible by your system. Run the compil
 ## Troubleshooting
 
 1. **Camera Not Opening**:
-   - Ensure no other application is using the camera.
-   - Try different camera indices in the code.
+   - Ensure no other application is using the camera
    - Verify camera permissions in `System Preferences` -> `Security & Privacy` -> `Privacy` -> `Camera`.
 
 2. **Continuity Camera Issues**:
