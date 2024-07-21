@@ -1,6 +1,8 @@
 # Video to ASCII 
 This project captures video from your webcam and converts each frame into ASCII art, displaying it in the terminal in real-time.
 
+https://github.com/user-attachments/assets/3aca8ce8-2981-448b-9a62-358adb6ccc99
+
 ## Prerequisites
 
 - OpenCV 4.0 or higher
